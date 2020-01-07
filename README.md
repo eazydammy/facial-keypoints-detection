@@ -12,3 +12,7 @@ __Notebook 2__ : Defining and Training a Convolutional Neural Network (CNN) to P
 __Notebook 3__ : Facial Keypoint Detection Using Haar Cascades and the Trained CNN
 
 __Notebook 4__ : Fun Filters and Keypoint Uses
+
+## Acknowledgement
+
+Notebook Documentation and Starter Code are part of project files provided by [Udacity](https://www.udacity.com/) in the [Computer Vision Nanodegree](https://www.udacity.com/course/computer-vision-nanodegree--nd891).
